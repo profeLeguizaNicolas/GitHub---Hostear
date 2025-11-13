@@ -28,7 +28,7 @@ main.js
 
 <div style="text-align: center">
 
-<img href="Imagenes/imagen3.png"></img>
+![img](Imagenes/imagen3.png)
 
 </div>
 
@@ -36,7 +36,7 @@ main.js
 
 <div style="text-align: center">
 
-<img href="Imagenes/imagen4.png"></img>
+![img](Imagenes/imagen4.png)
 
 </div>
 
@@ -44,13 +44,13 @@ main.js
 
 <div style="text-align: center">
 
-<img href="Imagenes/imagen5.png"></img>
+![img](Imagenes/imagen5.png)
 
 </div>
 
 <div style="text-align: center">
 
-<img href="Imagenes/imagen6.png"></img>
+![img](Imagenes/imagen6.png)
 
 </div>
 
@@ -58,7 +58,7 @@ main.js
 
 <div style="text-align: center">
 
-<img href="Imagenes/imagen7.png"></img>
+![img](Imagenes/imagen7.png)
 
 </div>
 
@@ -79,4 +79,5 @@ Tu archivo `index.html` será la página de inicio.
 
 
 </div>
+
 
