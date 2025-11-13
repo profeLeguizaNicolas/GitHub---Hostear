@@ -6,13 +6,13 @@
 
 <div style="text-align: center">
 
-<img href="Imagenes/imagen1.png"></img>
+![img](Imagenes/imagen1.png)
 
 </div>
 
 <div style="text-align: center">
-
-<img href="Imagenes/imagen2.png"></img>
+  
+![img](Imagenes/imagen2.png)
 
 </div>
 
@@ -79,3 +79,4 @@ Tu archivo `index.html` será la página de inicio.
 
 
 </div>
+
